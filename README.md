@@ -10,8 +10,7 @@ It helps businesses efficiently manage products, suppliers, and orders with role
 ![dashboard Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215523.png)
 ![products Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215551.png)
 ![orders Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215616.png)
-![register Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215641.png)
-![login Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215654.png)
+![register Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215641.png) ![login Screenshot](https://github.com/ganesh-012/Inventory/blob/9ed472fe6beeb2235c3c60a69fefc9595d0533bd/Screenshot%202025-08-29%20215654.png)
 
 
 
